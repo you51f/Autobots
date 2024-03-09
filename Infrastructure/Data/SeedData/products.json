@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Optimus Prime",
+    "PictureUrl": "images/products/",
+    "Price": 250,
+    "Description": "The awe-inspiring leader of the Autobot forces. Selfless and endlessly courageous, he is the complete opposite of his mortal enemy Megatron.",
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Megatron",
+    "PictureUrl": "images/products/",
+    "Price": 250,
+    "Description": "The founder of the Decepticon uprising, and their most well-known and feared leader. As a young, charismatic leader forged in battle and the heritage of war, he began to believe in a grand purpose for his race—it is the Transformers' glorious destiny to rule an empire which will span the universe.",
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Bumblebee",
+    "PictureUrl": "images/products/",
+    "Price": 200,
+    "Description": "One of Optimus Prime's most trusted lieutenants. Although he is not the strongest or most powerful of the Autobots, Bumblebee more than makes up for this with a bottomless well of luck, determination and bravery. He would gladly give his life to protect others and stop the Decepticons.",
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Starscream",
+    "PictureUrl": "images/products/",
+    "Price": 150,
+    "Description": "The treacherous Decepticon Air Commander and the deadliest of the Seekers. The self-proclaimed pride of the Cybertron War Academy, he's famous not only for his incredible skill, but also for his limitless (and troublesome) ambition.",
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Shockwave",
+    "PictureUrl": "images/products/",
+    "Price": 200,
+    "Description": "The strongest Transformer. His weapons are as powerful as Megatron's, which he can rival, his Hand Cannon is powered by his own personal reactor mounted on his back.",
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Bulkhead",
+    "PictureUrl": "images/products/",
+    "Price": 150,
+    "Description": "looks huge and menacing, but is actually quite caring and gentle-souled. Though he's neither a brainiac nor a fast runner, Bulkhead is one of the most sturdy members of Team Prime.",
+    "ProductTypeId": 1
+  }
+]
